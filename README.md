@@ -4,8 +4,8 @@
 ### [DEMO](https://youtu.be/0Uc6YrK3b8A)
 
 ## About
-* ### A homework project for Patika.dev
-* ### A simple demo quiz app with questions about Git and GitHub
+* #### A homework project for Patika.dev
+* #### A simple demo quiz app with questions about Git and GitHub
 
 ## Git Commands Used In This Project
 
