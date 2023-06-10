@@ -37,6 +37,8 @@ This project is made with HTML5, CSS and Javascript.
 *Creates a new branch*
 
 ### git merge
+#### git merge [branch1] [branch2]
+*Merges branch2 to branch1*
 
 ### git checkout
 #### *git checkout [branchname]*
@@ -51,4 +53,3 @@ This project is made with HTML5, CSS and Javascript.
 *Tracks the difference between the changes made on a file.*
 ### git reset --soft HEAD~
 *Resets the head pointer in Git to a previous commit, while keeping any changes made in that commit.*
-
