@@ -1,6 +1,7 @@
 # Git & GitHub Quiz
 This project is made with HTML5, CSS and Javascript.
-![A picture of the app](https://github.com/haruntasci/patikaodev01/assets/99567926/d7d3d49e-43b1-46b9-94d8-87a0c6f8b397)
+![App picture](https://github.com/haruntasci/patikaodev01/assets/99567926/674dcb83-fc56-45d1-80f9-ec287a39d736)
+
 
 ## About
 >* A homework project for "Patika.dev".
