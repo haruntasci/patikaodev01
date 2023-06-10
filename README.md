@@ -1,11 +1,11 @@
 # Git & GitHub Quiz
 ### This project is made with HTML5, CSS and Javascript.
 ![App picture](https://github.com/haruntasci/patikaodev01/assets/99567926/674dcb83-fc56-45d1-80f9-ec287a39d736)
-
+[DEMO](https://youtu.be/0Uc6YrK3b8A)
 
 ## About
->* A homework project for Patika.dev
->* A simple demo quiz app with questions about Git and GitHub
+* A homework project for Patika.dev
+* A simple demo quiz app with questions about Git and GitHub
 
 ## Git Commands Used In This Project
 
@@ -59,4 +59,5 @@
 >*The git push command is used to upload local repository content to a remote repository.*
 ### git pull
 >*The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content.*
-
+### git clone
+>*The git clone command copies an existing Git repository.*
