@@ -53,3 +53,8 @@ This project is made with HTML5, CSS and Javascript.
 *Tracks the difference between the changes made on a file.*
 ### git reset --soft HEAD~
 *Resets the head pointer in Git to a previous commit, while keeping any changes made in that commit.*
+
+### git push -u origin main
+*The git push command is used to upload local repository content to a remote repository.*
+
+
