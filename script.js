@@ -1,3 +1,6 @@
+
+// const questions -> a constant variable with questions and answers
+
 const questions = [
     {
         question: "Which of these terms best describes git?",
@@ -71,7 +74,7 @@ const questions = [
     }
 
 ];
-
+//Elements are defined
 const questionElement = document.querySelector("#question");
 const answerButtons = document.querySelector("#answer-buttons");
 const nextButton = document.querySelector("#next-btn");
