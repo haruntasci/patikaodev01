@@ -1,6 +1,7 @@
 # Git & GitHub Quiz
 ### This project is made with HTML5, CSS and Javascript.
-![App picture](https://github.com/haruntasci/patikaodev01/assets/99567926/674dcb83-fc56-45d1-80f9-ec287a39d736)
+![githubimageharun](https://github.com/haruntasci/patikaodev01/assets/99567926/4be4e220-0e38-46bf-849c-576b76e6424b)
+
 ### [DEMO](https://youtu.be/0Uc6YrK3b8A)
 
 ## About
